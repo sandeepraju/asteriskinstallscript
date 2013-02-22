@@ -1,4 +1,16 @@
-asteriskinstallscript
+Asterisk Install Script
 =====================
 
-Asterisk is an open source PBX platform. This scripts installs the latest version of asterisk by compiling from source on your ubuntu machine!
+[Asterisk](http://www.asterisk.org) is an open source PBX platform. These scripts install the latest version of Asterisk by compiling from source on your ubuntu machine!
+
+## Prerequisites
+
+## Installation Procedure
+
+## Testing
+
+## Authors
+
+## Contributing
+
+## License
