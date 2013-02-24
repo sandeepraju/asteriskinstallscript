@@ -5,6 +5,11 @@ Asterisk Install Script
 
 ## Prerequisites
 
++ A system with 50 GB HDD (optimal)
++ 2 GB RAM (optimal)
++ 1 Network Interface card
++ Ubuntu 12.04 LTS (64bit preferred)
+
 ## Installation Procedure
 
 ## Testing
